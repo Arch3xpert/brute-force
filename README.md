@@ -42,13 +42,13 @@
  ### Installation
 - Install with one command (linux)
  
-      git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/ && cd "SocialMediaHackingToolkit" && cd src && python3 setup.py && cd .. && python3 smh.py 
+      git clone https://github.com/Arch3xpert/brute-force.git && cd "brute-force" && cd src && python3 setup.py && cd .. && python3 smh.py 
   
 - Linux - Termux
 
   ```
-  git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/
-  cd "SocialMediaHackingToolkit"
+  git clone https://github.com/Arch3xpert/brute-force.git
+  cd "brute-force"
   cd src
   python3 setup.py
   cd ..
